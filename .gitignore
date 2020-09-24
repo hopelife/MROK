@@ -1,0 +1,71 @@
+
+#---------------------
+# Directories
+#---------------------
+target/
+.idea
+classes/
+META-INF/
+
+#---------------------
+# Config files
+#---------------------
+config.ini
+
+#---------------------
+# Windows
+#---------------------
+  
+# Windows image file caches
+Thumbs.db 
+  
+# Folder config file
+Desktop.ini
+
+# Executable file
+*.exe
+*.bat
+
+#---------------------
+# OSX
+#---------------------
+  
+.DS_Store
+.svn
+
+
+#---------------------
+# python
+#---------------------
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+# Environments
+.venv
+venv/
+
+# C extensions
+*.so
+
+#---------------------
+# node.js
+#---------------------
+node_modules/
+package.json
+package-lock.json
+
+
+#---------------------
+# telegram
+#---------------------
+*.session
+*.session-journal
